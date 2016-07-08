@@ -23,4 +23,4 @@ The process utilized by these teams will be detailed in the following documents.
 1. Install [node.js and npm](https://nodejs.org/dist/v4.4.5/node-v4.4.5.pkg)
 2. Clone this repo
 3. Run `npm install`
-4. Run `npm test`
+4. Run `npm test` 
